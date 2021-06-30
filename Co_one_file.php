@@ -31,7 +31,6 @@ function resetP(){
 session_destroy();
 }
 
-
     $CMD = "RIEN";
 
     if( count($_GET) != 0 )
